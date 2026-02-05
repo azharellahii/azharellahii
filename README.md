@@ -2,7 +2,7 @@ Frontend Developer Portfolio:
 Welcome to my frontend developer portfolio! This repository showcases my skills, projects, and passion for creating user-friendly web interfaces. Whether you’re a recruiter, fellow developer, or just curious, I invite you to explore my work.
 
 About Me:
-I’m a recent graduate with a Bachelor’s degree in Computer Science. My journey into frontend development began during my studies, and I’ve been hooked ever since. I believe that great design and seamless user experiences are essential for any web application.
+I’m a recent graduate with a Bachelor’s degree in Mechanical Engineering. My journey into frontend development began during my studies, and I’ve been hooked ever since. I believe that great design and seamless user experiences are essential for any web application.
 
 Skills:
 HTML/CSS: Proficient in writing clean, semantic HTML and CSS code.
